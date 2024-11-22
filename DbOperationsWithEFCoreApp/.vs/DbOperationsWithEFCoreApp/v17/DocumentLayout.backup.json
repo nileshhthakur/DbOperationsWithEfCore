@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\niles\\source\\repos\\Entity Framework Core\\src\\DbOperationsWithEfCore\\DbOperationsWithEFCoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{072F711A-0A1D-4A68-9B9F-C3B8CC237587}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|c:\\users\\niles\\source\\repos\\entity framework core\\src\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072F711A-0A1D-4A68-9B9F-C3B8CC237587}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072F711A-0A1D-4A68-9B9F-C3B8CC237587}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|c:\\users\\niles\\source\\repos\\entity framework core\\src\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{072F711A-0A1D-4A68-9B9F-C3B8CC237587}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072F711A-0A1D-4A68-9B9F-C3B8CC237587}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|c:\\users\\niles\\source\\repos\\entity framework core\\src\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{072F711A-0A1D-4A68-9B9F-C3B8CC237587}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\niles\\source\\repos\\Entity Framework Core\\src\\DbOperationsWithEfCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Program.cs",
+              "ToolTip": "C:\\Users\\niles\\source\\repos\\Entity Framework Core\\src\\DbOperationsWithEfCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Program.cs",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:28:42.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\niles\\source\\repos\\Entity Framework Core\\src\\DbOperationsWithEfCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\niles\\source\\repos\\Entity Framework Core\\src\\DbOperationsWithEfCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T09:28:31.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\niles\\source\\repos\\Entity Framework Core\\src\\DbOperationsWithEfCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\niles\\source\\repos\\Entity Framework Core\\src\\DbOperationsWithEfCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\appsettings.json",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T09:28:21.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
